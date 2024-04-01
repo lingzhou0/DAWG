@@ -22,10 +22,10 @@ The primary function of this group/seminar is akin to a journal club, to learn t
 
 - **March 26th: Introduction to Topological Data Analysis (TDA) and Giotto**  
   Ranthony prepared the following notebook to walk through the basics of TDA and Giotto:
-  [https://colab.research.google.com/drive/1hWC4Ti4ApV2Hd9o5-aWOjMyRUZlh7imE?usp=sharing](https://colab.research.google.com/drive/1hWC4Ti4ApV2Hd9o5-aWOjMyRUZlh7imE?usp=sharing)
+  [Giotto_TDA_Week_1.ipynb](https://colab.research.google.com/drive/1hWC4Ti4ApV2Hd9o5-aWOjMyRUZlh7imE?usp=sharing)
 
 - **April 2nd:** [Details Pending / To Be Announced]
-  [https://colab.research.google.com/drive/1cq-JWfxScdnuFl37MY2fI3kucBPlKd7N?usp=sharing](https://colab.research.google.com/drive/1cq-JWfxScdnuFl37MY2fI3kucBPlKd7N?usp=sharing)
+  [Giotto_TDA_Week_2_lorenz_attractor.ipynb](https://colab.research.google.com/drive/1cq-JWfxScdnuFl37MY2fI3kucBPlKd7N?usp=sharing)
 
 ## Contact Information
 
