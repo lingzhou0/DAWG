@@ -20,7 +20,7 @@ The primary function of this group/seminar is akin to a journal club, to learn t
   - Data
   - Software
 
-- **March 25th: Introduction to Topological Data Analysis (TDA) and Giotto**  
+- **March 26th: Introduction to Topological Data Analysis (TDA) and Giotto**  
   Ranthony prepared [a notebook](https://colab.research.google.com/drive/1hWC4Ti4ApV2Hd9o5-aWOjMyRUZlh7imE?usp=sharing) to walk through the basics of TDA and Giotto.
 
 - **April 2nd:** [Details Pending / To Be Announced]
