@@ -27,10 +27,12 @@ The primary function of this group/seminar is akin to a journal club, to learn t
 - **April 2nd:** [Details Pending / To Be Announced]
   [Giotto_TDA_Week_2_lorenz_attractor.ipynb](https://colab.research.google.com/drive/1cq-JWfxScdnuFl37MY2fI3kucBPlKd7N?usp=sharing)
 
+- **April 9nd:** [Tentative: review Giotto-TDA tutorials (1) classifying_shapes.ipynb; (2) MNIST_classification.ipynb]
+
 ## Contact Information
 
 For more information, suggestions, or questions, please contact one of the organizers:
 
-- Ranthony Clark: ranthony.edmonds@duke.edu
+- Ranthony Clark: ranthony.clark@duke.edu
 - Jonathan Mousley: jonathan.mousley@duke.edu
 - Ling Zhou: ling.zhou@duke.edu
