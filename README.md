@@ -35,7 +35,6 @@ The primary function of this group/seminar is to learn topics of interest togeth
 For more information, suggestions, or questions, please contact one of the organizers:
 
 - Ranthony Clark: ranthony.clark@duke.edu
+- Aziz Burak Gülen: aziz.burak.gulen@gmail.com
 - Jonathan Mousley: jonathan.mousley@duke.edu
 - Ling Zhou: ling.zhou@duke.edu
-- Aziz Burak Gülen: aziz.burak.gulen@gmail.com
-
