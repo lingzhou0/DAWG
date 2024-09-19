@@ -1,4 +1,4 @@
-# Applied Math Working Group
+# Data Science & Applied Math Working Group (DAWG)
 
 Welcome to the Data Science & Applied Math Working Group (DAWG) at Duke University. All graduate students, postdocs, and faculty are welcome! 
 
