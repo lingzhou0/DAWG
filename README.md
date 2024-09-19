@@ -15,16 +15,14 @@ The primary function of this group/seminar is to learn topics of interest togeth
 
   We introduced ourselves, discussed the group's structure and goals, and selected topics for the rest of the semester. 
 
-- **September 26th: Introduction to Topological Data Analysis (TDA) and Software**  
+- **September 26th: Introduction to Topological Data Analysis (TDA) and Software, Jonathan Mousley**  
 
-- **October 3rd:** [Details Pending / To Be Announced]
-  [Giotto_TDA_Week_2_lorenz_attractor.ipynb](https://colab.research.google.com/drive/1cq-JWfxScdnuFl37MY2fI3kucBPlKd7N?usp=sharing)
+- **October 3rd: Persistent Laplacian - Aziz Burak Gülen**
 
-- **October 10th:** [Tentative: review Giotto-TDA tutorials (1) classifying_shapes.ipynb; (2) MNIST_classification.ipynb]
-
-- **October 17th:**
+- **October 10th:Computational Neuroscience - Logan Chariker**
+- **October 17th: Computational Redistricting - Ranthony Clark**
 - **October 14th:**
-- **October 31th:**
+- **October 31th: TDA in Neuroscience - Ling Zhou**
 - **November 7th:**
 - **November 14th:**
 - **November 21th:**
