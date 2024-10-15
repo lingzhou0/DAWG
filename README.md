@@ -21,7 +21,7 @@ The primary function of this group/seminar is to learn topics of interest togeth
 
 - **October 10th:Computational Neuroscience - Logan Chariker**
 - **October 17th: Computational Redistricting - Ranthony Clark**
-- **October 14th:**
+- **October 24th:**
 - **October 31th: TDA in Neuroscience - Ling Zhou**
 - **November 7th:**
 - **November 14th:**
